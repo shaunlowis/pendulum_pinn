@@ -1,0 +1,5 @@
+in base directory if no node_modules folder:
+npm install express
+
+then do:
+node server.js
